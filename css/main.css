@@ -43,7 +43,7 @@ a:hover{
 }
 
 header .navbar{
-	background-color: #151515;
+	background-color: transparent;
 	border: none;
 	padding: 0.5em;
 	margin-bottom: 0;
@@ -237,6 +237,12 @@ header .navbar{
 
 .nav-tabs>li> a{
 	color: black;
+}
+
+.btn-filter{
+	text-transform: uppercase;
+	font-family: 'Raleway', sans-serif;
+	font-weight: 600;
 }
 
 .proyects-container{
